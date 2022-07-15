@@ -1,4 +1,4 @@
-# Initial-Coin-Offering
+# Ceramic Dapp
 
 ![image](https://i.imgur.com/etCAEZi.png)
 
@@ -6,13 +6,13 @@ This Dapp is created using Ceramic, a decentralised data network.
 
 Ceramic is building:
 
-A generalized data protocol
-where data can be modified only by the owner
-with high volume data processing
-with global data availability and consistency
-with support for fast querying
-with interoperable data across applications
-and community governance
+- A generalized data protocol
+- where data can be modified only by the owner
+- with high volume data processing
+- with global data availability and consistency
+- with support for fast querying
+- with interoperable data across applications
+- and community governance
 
 Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Junior Tack.
 
